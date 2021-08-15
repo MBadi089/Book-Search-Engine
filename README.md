@@ -3,7 +3,7 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 ## NPM Packages Used
 - Develop Directory
-   -if-env
+  - if-env
 - Client Directory
   - apollo/client
   - graphql
