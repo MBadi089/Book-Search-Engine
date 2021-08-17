@@ -33,7 +33,7 @@ module.exports = {
     } catch {
       console.log('Invalid token');
 
-      return console.log('this is a return!!!!!!!!'); //return res.status(400).json({ message: 'invalid token!' });
+      return console.log('this is a return!!'); //return res.status(400).json({ message: 'invalid token!' });
     }
 
     // send to next endpoint
