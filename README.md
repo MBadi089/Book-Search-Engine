@@ -32,4 +32,4 @@ this will run the entire application
 https://drive.google.com/file/d/1Fwm80CYXK3QqTRfnuwv8HLXPVS0cAGAx/view
 
 ## Deployed App
-https://dashboard.heroku.com/apps/booksearchengin
+https://git.heroku.com/booksearchengin.git
